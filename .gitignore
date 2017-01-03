@@ -1,3 +1,5 @@
 .babelrc
 webpack.config.js
 src/
+node_modules/
+package.json
